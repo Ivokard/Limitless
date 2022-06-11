@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">389845587433</string>
+  <string name="google_storage_bucket" translatable="false">limitless-dungeon.appspot.com</string>
+  <string name="project_id" translatable="false">limitless-dungeon</string>
+  <string name="google_api_key" translatable="false">AIzaSyCZOSp7_QHgykhsFa61jRSZI0dgaSke1jE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZOSp7_QHgykhsFa61jRSZI0dgaSke1jE</string>
+  <string name="google_app_id" translatable="false">1:389845587433:android:de8e307af027ef12132778</string>
+  <string name="default_web_client_id" translatable="false">389845587433-22nee8adb9dd9jmm3ed2kgl28bpnqmn1.apps.googleusercontent.com</string>
+</resources>
